@@ -1,4 +1,4 @@
-// Book Constructor
+/*// Book Constructor
 function Book(title, author, isbn) {
   this.title = title;
   this.author = author;
@@ -107,3 +107,4 @@ document.getElementById('book-list').addEventListener('click', function(e) {
 });
 
 
+*/
